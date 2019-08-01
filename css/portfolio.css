@@ -88,7 +88,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/background2.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://wallpaperaccess.com/full/704156.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -216,7 +216,7 @@ h6 {
 
 .callout {
   padding: 9rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/iit.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("http://musicments.com/img/d_default/summer-beach-tumblr/summer-beach-tumblr-aesthetic-5c7451529d7f6.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -371,7 +371,7 @@ a:hover, a:focus, a:active {
 
 .my-autoa{
 border 2px solid white;
-background-image: url("../img/aniket.jpg");
+background-image: url("../img/austin.jpg");
 background-size: contain;
 border-radius: 50%;
 width: 260px;
