@@ -92,6 +92,7 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
 
 .masthead h1 {
@@ -386,3 +387,11 @@ margin:auto;
 .marqueea{
   margin-left: 100px;
 }
+#me{
+ text-align: center;
+ margin-right:200px; 
+ 
+}
+
+
+
